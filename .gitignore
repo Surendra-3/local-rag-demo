@@ -1,0 +1,66 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+.bak
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+
+# -------------------------
+# Local vector store & artifacts (DO NOT COMMIT)
+# -------------------------
+people.index
+people_texts.pkl
+
+# If you create more FAISS / pickle artifacts later
+*.pkl
+*.index
+
+# -------------------------
+# Logs / temp files
+# -------------------------
+*.log
+*.tmp
+
+# -------------------------
+# IDE / editor
+# -------------------------
+.vscode/
+.idea/
+*.swp
+
+# -------------------------
+# Build / packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+
+# -------------------------
+# Jupyter (if you test later)
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db

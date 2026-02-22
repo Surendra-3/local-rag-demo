@@ -1,0 +1,886 @@
+ProductID,text
+680,"Product HL Road Frame - Black, 58 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 0, dtype: object of Subcategory Road Frames with Color Black"
+706,"Product HL Road Frame - Red, 58 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 1, dtype: object of Subcategory Road Frames with Color Red"
+707,"Product Sport-100 Helmet, Red of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 2, dtype: object of Subcategory Helmets with Color Red"
+708,"Product Sport-100 Helmet, Black of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 3, dtype: object of Subcategory Helmets with Color Black"
+709,"Product Mountain Bike Socks, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 4, dtype: object of Subcategory Socks with Color White"
+710,"Product Mountain Bike Socks, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 5, dtype: object of Subcategory Socks with Color White"
+711,"Product Sport-100 Helmet, Blue of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 6, dtype: object of Subcategory Helmets with Color Blue"
+712,"Product AWC Logo Cap of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 7, dtype: object of Subcategory Caps with Color Multi"
+713,"Product Long-Sleeve Logo Jersey, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 8, dtype: object of Subcategory Jerseys with Color Multi"
+714,"Product Long-Sleeve Logo Jersey, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 9, dtype: object of Subcategory Jerseys with Color Multi"
+715,"Product Long-Sleeve Logo Jersey, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 10, dtype: object of Subcategory Jerseys with Color Multi"
+716,"Product Long-Sleeve Logo Jersey, XL of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 11, dtype: object of Subcategory Jerseys with Color Multi"
+717,"Product HL Road Frame - Red, 62 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 12, dtype: object of Subcategory Road Frames with Color Red"
+718,"Product HL Road Frame - Red, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 13, dtype: object of Subcategory Road Frames with Color Red"
+719,"Product HL Road Frame - Red, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 14, dtype: object of Subcategory Road Frames with Color Red"
+720,"Product HL Road Frame - Red, 52 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 15, dtype: object of Subcategory Road Frames with Color Red"
+721,"Product HL Road Frame - Red, 56 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 16, dtype: object of Subcategory Road Frames with Color Red"
+722,"Product LL Road Frame - Black, 58 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 17, dtype: object of Subcategory Road Frames with Color Black"
+723,"Product LL Road Frame - Black, 60 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 18, dtype: object of Subcategory Road Frames with Color Black"
+724,"Product LL Road Frame - Black, 62 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 19, dtype: object of Subcategory Road Frames with Color Black"
+725,"Product LL Road Frame - Red, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 20, dtype: object of Subcategory Road Frames with Color Red"
+726,"Product LL Road Frame - Red, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 21, dtype: object of Subcategory Road Frames with Color Red"
+727,"Product LL Road Frame - Red, 52 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 22, dtype: object of Subcategory Road Frames with Color Red"
+728,"Product LL Road Frame - Red, 58 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 23, dtype: object of Subcategory Road Frames with Color Red"
+729,"Product LL Road Frame - Red, 60 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 24, dtype: object of Subcategory Road Frames with Color Red"
+730,"Product LL Road Frame - Red, 62 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 25, dtype: object of Subcategory Road Frames with Color Red"
+731,"Product ML Road Frame - Red, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 26, dtype: object of Subcategory Road Frames with Color Red"
+732,"Product ML Road Frame - Red, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 27, dtype: object of Subcategory Road Frames with Color Red"
+733,"Product ML Road Frame - Red, 52 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 28, dtype: object of Subcategory Road Frames with Color Red"
+734,"Product ML Road Frame - Red, 58 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 29, dtype: object of Subcategory Road Frames with Color Red"
+735,"Product ML Road Frame - Red, 60 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 30, dtype: object of Subcategory Road Frames with Color Red"
+736,"Product LL Road Frame - Black, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 31, dtype: object of Subcategory Road Frames with Color Black"
+737,"Product LL Road Frame - Black, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 32, dtype: object of Subcategory Road Frames with Color Black"
+738,"Product LL Road Frame - Black, 52 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 33, dtype: object of Subcategory Road Frames with Color Black"
+739,"Product HL Mountain Frame - Silver, 42 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 34, dtype: object of Subcategory Mountain Frames with Color Silver"
+740,"Product HL Mountain Frame - Silver, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 35, dtype: object of Subcategory Mountain Frames with Color Silver"
+741,"Product HL Mountain Frame - Silver, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 36, dtype: object of Subcategory Mountain Frames with Color Silver"
+742,"Product HL Mountain Frame - Silver, 46 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 37, dtype: object of Subcategory Mountain Frames with Color Silver"
+743,"Product HL Mountain Frame - Black, 42 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 38, dtype: object of Subcategory Mountain Frames with Color Black"
+744,"Product HL Mountain Frame - Black, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 39, dtype: object of Subcategory Mountain Frames with Color Black"
+745,"Product HL Mountain Frame - Black, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 40, dtype: object of Subcategory Mountain Frames with Color Black"
+746,"Product HL Mountain Frame - Black, 46 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 41, dtype: object of Subcategory Mountain Frames with Color Black"
+747,"Product HL Mountain Frame - Black, 38 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 42, dtype: object of Subcategory Mountain Frames with Color Black"
+748,"Product HL Mountain Frame - Silver, 38 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 43, dtype: object of Subcategory Mountain Frames with Color Silver"
+749,"Product Road-150 Red, 62 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 44, dtype: object of Subcategory Road Bikes with Color Red"
+750,"Product Road-150 Red, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 45, dtype: object of Subcategory Road Bikes with Color Red"
+751,"Product Road-150 Red, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 46, dtype: object of Subcategory Road Bikes with Color Red"
+752,"Product Road-150 Red, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 47, dtype: object of Subcategory Road Bikes with Color Red"
+753,"Product Road-150 Red, 56 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 48, dtype: object of Subcategory Road Bikes with Color Red"
+754,"Product Road-450 Red, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 49, dtype: object of Subcategory Road Bikes with Color Red"
+755,"Product Road-450 Red, 60 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 50, dtype: object of Subcategory Road Bikes with Color Red"
+756,"Product Road-450 Red, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 51, dtype: object of Subcategory Road Bikes with Color Red"
+757,"Product Road-450 Red, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 52, dtype: object of Subcategory Road Bikes with Color Red"
+758,"Product Road-450 Red, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 53, dtype: object of Subcategory Road Bikes with Color Red"
+759,"Product Road-650 Red, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 54, dtype: object of Subcategory Road Bikes with Color Red"
+760,"Product Road-650 Red, 60 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 55, dtype: object of Subcategory Road Bikes with Color Red"
+761,"Product Road-650 Red, 62 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 56, dtype: object of Subcategory Road Bikes with Color Red"
+762,"Product Road-650 Red, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 57, dtype: object of Subcategory Road Bikes with Color Red"
+763,"Product Road-650 Red, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 58, dtype: object of Subcategory Road Bikes with Color Red"
+764,"Product Road-650 Red, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 59, dtype: object of Subcategory Road Bikes with Color Red"
+765,"Product Road-650 Black, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 60, dtype: object of Subcategory Road Bikes with Color Black"
+766,"Product Road-650 Black, 60 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 61, dtype: object of Subcategory Road Bikes with Color Black"
+767,"Product Road-650 Black, 62 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 62, dtype: object of Subcategory Road Bikes with Color Black"
+768,"Product Road-650 Black, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 63, dtype: object of Subcategory Road Bikes with Color Black"
+769,"Product Road-650 Black, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 64, dtype: object of Subcategory Road Bikes with Color Black"
+770,"Product Road-650 Black, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 65, dtype: object of Subcategory Road Bikes with Color Black"
+771,"Product Mountain-100 Silver, 38 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 66, dtype: object of Subcategory Mountain Bikes with Color Silver"
+772,"Product Mountain-100 Silver, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 67, dtype: object of Subcategory Mountain Bikes with Color Silver"
+773,"Product Mountain-100 Silver, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 68, dtype: object of Subcategory Mountain Bikes with Color Silver"
+774,"Product Mountain-100 Silver, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 69, dtype: object of Subcategory Mountain Bikes with Color Silver"
+775,"Product Mountain-100 Black, 38 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 70, dtype: object of Subcategory Mountain Bikes with Color Black"
+776,"Product Mountain-100 Black, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 71, dtype: object of Subcategory Mountain Bikes with Color Black"
+777,"Product Mountain-100 Black, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 72, dtype: object of Subcategory Mountain Bikes with Color Black"
+778,"Product Mountain-100 Black, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 73, dtype: object of Subcategory Mountain Bikes with Color Black"
+779,"Product Mountain-200 Silver, 38 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 74, dtype: object of Subcategory Mountain Bikes with Color Silver"
+780,"Product Mountain-200 Silver, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 75, dtype: object of Subcategory Mountain Bikes with Color Silver"
+781,"Product Mountain-200 Silver, 46 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 76, dtype: object of Subcategory Mountain Bikes with Color Silver"
+782,"Product Mountain-200 Black, 38 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 77, dtype: object of Subcategory Mountain Bikes with Color Black"
+783,"Product Mountain-200 Black, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 78, dtype: object of Subcategory Mountain Bikes with Color Black"
+784,"Product Mountain-200 Black, 46 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 79, dtype: object of Subcategory Mountain Bikes with Color Black"
+785,"Product Mountain-300 Black, 38 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 80, dtype: object of Subcategory Mountain Bikes with Color Black"
+786,"Product Mountain-300 Black, 40 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 81, dtype: object of Subcategory Mountain Bikes with Color Black"
+787,"Product Mountain-300 Black, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 82, dtype: object of Subcategory Mountain Bikes with Color Black"
+788,"Product Mountain-300 Black, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 83, dtype: object of Subcategory Mountain Bikes with Color Black"
+789,"Product Road-250 Red, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 84, dtype: object of Subcategory Road Bikes with Color Red"
+790,"Product Road-250 Red, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 85, dtype: object of Subcategory Road Bikes with Color Red"
+791,"Product Road-250 Red, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 86, dtype: object of Subcategory Road Bikes with Color Red"
+792,"Product Road-250 Red, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 87, dtype: object of Subcategory Road Bikes with Color Red"
+793,"Product Road-250 Black, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 88, dtype: object of Subcategory Road Bikes with Color Black"
+794,"Product Road-250 Black, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 89, dtype: object of Subcategory Road Bikes with Color Black"
+795,"Product Road-250 Black, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 90, dtype: object of Subcategory Road Bikes with Color Black"
+796,"Product Road-250 Black, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 91, dtype: object of Subcategory Road Bikes with Color Black"
+797,"Product Road-550-W Yellow, 38 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 92, dtype: object of Subcategory Road Bikes with Color Yellow"
+798,"Product Road-550-W Yellow, 40 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 93, dtype: object of Subcategory Road Bikes with Color Yellow"
+799,"Product Road-550-W Yellow, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 94, dtype: object of Subcategory Road Bikes with Color Yellow"
+800,"Product Road-550-W Yellow, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 95, dtype: object of Subcategory Road Bikes with Color Yellow"
+801,"Product Road-550-W Yellow, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 96, dtype: object of Subcategory Road Bikes with Color Yellow"
+802,"Product LL Fork of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 97, dtype: object of Subcategory Forks with Color nan"
+803,"Product ML Fork of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 98, dtype: object of Subcategory Forks with Color nan"
+804,"Product HL Fork of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 99, dtype: object of Subcategory Forks with Color nan"
+805,"Product LL Headset of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 100, dtype: object of Subcategory Headsets with Color nan"
+806,"Product ML Headset of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 101, dtype: object of Subcategory Headsets with Color nan"
+807,"Product HL Headset of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 102, dtype: object of Subcategory Headsets with Color nan"
+808,"Product LL Mountain Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 103, dtype: object of Subcategory Handlebars with Color nan"
+809,"Product ML Mountain Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 104, dtype: object of Subcategory Handlebars with Color nan"
+810,"Product HL Mountain Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 105, dtype: object of Subcategory Handlebars with Color nan"
+811,"Product LL Road Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 106, dtype: object of Subcategory Handlebars with Color nan"
+812,"Product ML Road Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 107, dtype: object of Subcategory Handlebars with Color nan"
+813,"Product HL Road Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 108, dtype: object of Subcategory Handlebars with Color nan"
+814,"Product ML Mountain Frame - Black, 38 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 109, dtype: object of Subcategory Mountain Frames with Color Black"
+815,"Product LL Mountain Front Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 110, dtype: object of Subcategory Wheels with Color Black"
+816,"Product ML Mountain Front Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 111, dtype: object of Subcategory Wheels with Color Black"
+817,"Product HL Mountain Front Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 112, dtype: object of Subcategory Wheels with Color Black"
+818,"Product LL Road Front Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 113, dtype: object of Subcategory Wheels with Color Black"
+819,"Product ML Road Front Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 114, dtype: object of Subcategory Wheels with Color Black"
+820,"Product HL Road Front Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 115, dtype: object of Subcategory Wheels with Color Black"
+821,"Product Touring Front Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 116, dtype: object of Subcategory Wheels with Color Black"
+822,"Product ML Road Frame-W - Yellow, 38 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 117, dtype: object of Subcategory Road Frames with Color Yellow"
+823,"Product LL Mountain Rear Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 118, dtype: object of Subcategory Wheels with Color Black"
+824,"Product ML Mountain Rear Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 119, dtype: object of Subcategory Wheels with Color Black"
+825,"Product HL Mountain Rear Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 120, dtype: object of Subcategory Wheels with Color Black"
+826,"Product LL Road Rear Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 121, dtype: object of Subcategory Wheels with Color Black"
+827,"Product ML Road Rear Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 122, dtype: object of Subcategory Wheels with Color Black"
+828,"Product HL Road Rear Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 123, dtype: object of Subcategory Wheels with Color Black"
+829,"Product Touring Rear Wheel of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 124, dtype: object of Subcategory Wheels with Color Black"
+830,"Product ML Mountain Frame - Black, 40 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 125, dtype: object of Subcategory Mountain Frames with Color Black"
+831,"Product ML Mountain Frame - Black, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 126, dtype: object of Subcategory Mountain Frames with Color Black"
+832,"Product ML Mountain Frame - Black, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 127, dtype: object of Subcategory Mountain Frames with Color Black"
+833,"Product ML Road Frame-W - Yellow, 40 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 128, dtype: object of Subcategory Road Frames with Color Yellow"
+834,"Product ML Road Frame-W - Yellow, 42 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 129, dtype: object of Subcategory Road Frames with Color Yellow"
+835,"Product ML Road Frame-W - Yellow, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 130, dtype: object of Subcategory Road Frames with Color Yellow"
+836,"Product ML Road Frame-W - Yellow, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 131, dtype: object of Subcategory Road Frames with Color Yellow"
+837,"Product HL Road Frame - Black, 62 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 132, dtype: object of Subcategory Road Frames with Color Black"
+838,"Product HL Road Frame - Black, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 133, dtype: object of Subcategory Road Frames with Color Black"
+839,"Product HL Road Frame - Black, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 134, dtype: object of Subcategory Road Frames with Color Black"
+840,"Product HL Road Frame - Black, 52 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 135, dtype: object of Subcategory Road Frames with Color Black"
+841,"Product Men's Sports Shorts, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 136, dtype: object of Subcategory Shorts with Color Black"
+842,"Product Touring-Panniers, Large of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 137, dtype: object of Subcategory Panniers with Color Grey"
+843,"Product Cable Lock of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 138, dtype: object of Subcategory Locks with Color nan"
+844,"Product Minipump of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 139, dtype: object of Subcategory Pumps with Color nan"
+845,"Product Mountain Pump of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 140, dtype: object of Subcategory Pumps with Color nan"
+846,"Product Taillights - Battery-Powered of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 141, dtype: object of Subcategory Lights with Color nan"
+847,"Product Headlights - Dual-Beam of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 142, dtype: object of Subcategory Lights with Color nan"
+848,"Product Headlights - Weatherproof of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 143, dtype: object of Subcategory Lights with Color nan"
+849,"Product Men's Sports Shorts, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 144, dtype: object of Subcategory Shorts with Color Black"
+850,"Product Men's Sports Shorts, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 145, dtype: object of Subcategory Shorts with Color Black"
+851,"Product Men's Sports Shorts, XL of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 146, dtype: object of Subcategory Shorts with Color Black"
+852,"Product Women's Tights, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 147, dtype: object of Subcategory Tights with Color Black"
+853,"Product Women's Tights, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 148, dtype: object of Subcategory Tights with Color Black"
+854,"Product Women's Tights, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 149, dtype: object of Subcategory Tights with Color Black"
+855,"Product Men's Bib-Shorts, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 150, dtype: object of Subcategory Bib-Shorts with Color Multi"
+856,"Product Men's Bib-Shorts, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 151, dtype: object of Subcategory Bib-Shorts with Color Multi"
+857,"Product Men's Bib-Shorts, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 152, dtype: object of Subcategory Bib-Shorts with Color Multi"
+858,"Product Half-Finger Gloves, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 153, dtype: object of Subcategory Gloves with Color Black"
+859,"Product Half-Finger Gloves, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 154, dtype: object of Subcategory Gloves with Color Black"
+860,"Product Half-Finger Gloves, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 155, dtype: object of Subcategory Gloves with Color Black"
+861,"Product Full-Finger Gloves, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 156, dtype: object of Subcategory Gloves with Color Black"
+862,"Product Full-Finger Gloves, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 157, dtype: object of Subcategory Gloves with Color Black"
+863,"Product Full-Finger Gloves, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 158, dtype: object of Subcategory Gloves with Color Black"
+864,"Product Classic Vest, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 159, dtype: object of Subcategory Vests with Color Blue"
+865,"Product Classic Vest, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 160, dtype: object of Subcategory Vests with Color Blue"
+866,"Product Classic Vest, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 161, dtype: object of Subcategory Vests with Color Blue"
+867,"Product Women's Mountain Shorts, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 162, dtype: object of Subcategory Shorts with Color Black"
+868,"Product Women's Mountain Shorts, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 163, dtype: object of Subcategory Shorts with Color Black"
+869,"Product Women's Mountain Shorts, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 164, dtype: object of Subcategory Shorts with Color Black"
+870,"Product Water Bottle - 30 oz. of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 165, dtype: object of Subcategory Bottles and Cages with Color nan"
+871,"Product Mountain Bottle Cage of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 166, dtype: object of Subcategory Bottles and Cages with Color nan"
+872,"Product Road Bottle Cage of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 167, dtype: object of Subcategory Bottles and Cages with Color nan"
+873,"Product Patch Kit/8 Patches of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 168, dtype: object of Subcategory Tires and Tubes with Color nan"
+874,"Product Racing Socks, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 169, dtype: object of Subcategory Socks with Color White"
+875,"Product Racing Socks, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 170, dtype: object of Subcategory Socks with Color White"
+876,"Product Hitch Rack - 4-Bike of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 171, dtype: object of Subcategory Bike Racks with Color nan"
+877,"Product Bike Wash - Dissolver of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 172, dtype: object of Subcategory Cleaners with Color nan"
+878,"Product Fender Set - Mountain of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 173, dtype: object of Subcategory Fenders with Color nan"
+879,"Product All-Purpose Bike Stand of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 174, dtype: object of Subcategory Bike Stands with Color nan"
+880,"Product Hydration Pack - 70 oz. of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 175, dtype: object of Subcategory Hydration Packs with Color Silver"
+881,"Product Short-Sleeve Classic Jersey, S of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 176, dtype: object of Subcategory Jerseys with Color Yellow"
+882,"Product Short-Sleeve Classic Jersey, M of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 177, dtype: object of Subcategory Jerseys with Color Yellow"
+883,"Product Short-Sleeve Classic Jersey, L of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 178, dtype: object of Subcategory Jerseys with Color Yellow"
+884,"Product Short-Sleeve Classic Jersey, XL of Category ProductCategoryName    Clothing
+ProductCategoryName    Clothing
+Name: 179, dtype: object of Subcategory Jerseys with Color Yellow"
+885,"Product HL Touring Frame - Yellow, 60 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 180, dtype: object of Subcategory Touring Frames with Color Yellow"
+886,"Product LL Touring Frame - Yellow, 62 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 181, dtype: object of Subcategory Touring Frames with Color Yellow"
+887,"Product HL Touring Frame - Yellow, 46 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 182, dtype: object of Subcategory Touring Frames with Color Yellow"
+888,"Product HL Touring Frame - Yellow, 50 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 183, dtype: object of Subcategory Touring Frames with Color Yellow"
+889,"Product HL Touring Frame - Yellow, 54 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 184, dtype: object of Subcategory Touring Frames with Color Yellow"
+890,"Product HL Touring Frame - Blue, 46 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 185, dtype: object of Subcategory Touring Frames with Color Blue"
+891,"Product HL Touring Frame - Blue, 50 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 186, dtype: object of Subcategory Touring Frames with Color Blue"
+892,"Product HL Touring Frame - Blue, 54 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 187, dtype: object of Subcategory Touring Frames with Color Blue"
+893,"Product HL Touring Frame - Blue, 60 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 188, dtype: object of Subcategory Touring Frames with Color Blue"
+894,"Product Rear Derailleur of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 189, dtype: object of Subcategory Derailleurs with Color Silver"
+895,"Product LL Touring Frame - Blue, 50 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 190, dtype: object of Subcategory Touring Frames with Color Blue"
+896,"Product LL Touring Frame - Blue, 54 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 191, dtype: object of Subcategory Touring Frames with Color Blue"
+897,"Product LL Touring Frame - Blue, 58 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 192, dtype: object of Subcategory Touring Frames with Color Blue"
+898,"Product LL Touring Frame - Blue, 62 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 193, dtype: object of Subcategory Touring Frames with Color Blue"
+899,"Product LL Touring Frame - Yellow, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 194, dtype: object of Subcategory Touring Frames with Color Yellow"
+900,"Product LL Touring Frame - Yellow, 50 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 195, dtype: object of Subcategory Touring Frames with Color Yellow"
+901,"Product LL Touring Frame - Yellow, 54 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 196, dtype: object of Subcategory Touring Frames with Color Yellow"
+902,"Product LL Touring Frame - Yellow, 58 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 197, dtype: object of Subcategory Touring Frames with Color Yellow"
+903,"Product LL Touring Frame - Blue, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 198, dtype: object of Subcategory Touring Frames with Color Blue"
+904,"Product ML Mountain Frame-W - Silver, 40 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 199, dtype: object of Subcategory Mountain Frames with Color Silver"
+905,"Product ML Mountain Frame-W - Silver, 42 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 200, dtype: object of Subcategory Mountain Frames with Color Silver"
+906,"Product ML Mountain Frame-W - Silver, 46 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 201, dtype: object of Subcategory Mountain Frames with Color Silver"
+907,"Product Rear Brakes of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 202, dtype: object of Subcategory Brakes with Color Silver"
+908,"Product LL Mountain Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 203, dtype: object of Subcategory Saddles with Color nan"
+909,"Product ML Mountain Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 204, dtype: object of Subcategory Saddles with Color nan"
+910,"Product HL Mountain Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 205, dtype: object of Subcategory Saddles with Color nan"
+911,"Product LL Road Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 206, dtype: object of Subcategory Saddles with Color nan"
+912,"Product ML Road Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 207, dtype: object of Subcategory Saddles with Color nan"
+913,"Product HL Road Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 208, dtype: object of Subcategory Saddles with Color nan"
+914,"Product LL Touring Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 209, dtype: object of Subcategory Saddles with Color nan"
+915,"Product ML Touring Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 210, dtype: object of Subcategory Saddles with Color nan"
+916,"Product HL Touring Seat/Saddle of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 211, dtype: object of Subcategory Saddles with Color nan"
+917,"Product LL Mountain Frame - Silver, 42 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 212, dtype: object of Subcategory Mountain Frames with Color Silver"
+918,"Product LL Mountain Frame - Silver, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 213, dtype: object of Subcategory Mountain Frames with Color Silver"
+919,"Product LL Mountain Frame - Silver, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 214, dtype: object of Subcategory Mountain Frames with Color Silver"
+920,"Product LL Mountain Frame - Silver, 52 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 215, dtype: object of Subcategory Mountain Frames with Color Silver"
+921,"Product Mountain Tire Tube of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 216, dtype: object of Subcategory Tires and Tubes with Color nan"
+922,"Product Road Tire Tube of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 217, dtype: object of Subcategory Tires and Tubes with Color nan"
+923,"Product Touring Tire Tube of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 218, dtype: object of Subcategory Tires and Tubes with Color nan"
+924,"Product LL Mountain Frame - Black, 42 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 219, dtype: object of Subcategory Mountain Frames with Color Black"
+925,"Product LL Mountain Frame - Black, 44 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 220, dtype: object of Subcategory Mountain Frames with Color Black"
+926,"Product LL Mountain Frame - Black, 48 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 221, dtype: object of Subcategory Mountain Frames with Color Black"
+927,"Product LL Mountain Frame - Black, 52 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 222, dtype: object of Subcategory Mountain Frames with Color Black"
+928,"Product LL Mountain Tire of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 223, dtype: object of Subcategory Tires and Tubes with Color nan"
+929,"Product ML Mountain Tire of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 224, dtype: object of Subcategory Tires and Tubes with Color nan"
+930,"Product HL Mountain Tire of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 225, dtype: object of Subcategory Tires and Tubes with Color nan"
+931,"Product LL Road Tire of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 226, dtype: object of Subcategory Tires and Tubes with Color nan"
+932,"Product ML Road Tire of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 227, dtype: object of Subcategory Tires and Tubes with Color nan"
+933,"Product HL Road Tire of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 228, dtype: object of Subcategory Tires and Tubes with Color nan"
+934,"Product Touring Tire of Category ProductCategoryName    Accessories
+ProductCategoryName    Accessories
+Name: 229, dtype: object of Subcategory Tires and Tubes with Color nan"
+935,"Product LL Mountain Pedal of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 230, dtype: object of Subcategory Pedals with Color Silver/Black"
+936,"Product ML Mountain Pedal of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 231, dtype: object of Subcategory Pedals with Color Silver/Black"
+937,"Product HL Mountain Pedal of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 232, dtype: object of Subcategory Pedals with Color Silver/Black"
+938,"Product LL Road Pedal of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 233, dtype: object of Subcategory Pedals with Color Silver/Black"
+939,"Product ML Road Pedal of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 234, dtype: object of Subcategory Pedals with Color Silver/Black"
+940,"Product HL Road Pedal of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 235, dtype: object of Subcategory Pedals with Color Silver/Black"
+941,"Product Touring Pedal of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 236, dtype: object of Subcategory Pedals with Color Silver/Black"
+942,"Product ML Mountain Frame-W - Silver, 38 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 237, dtype: object of Subcategory Mountain Frames with Color Silver"
+943,"Product LL Mountain Frame - Black, 40 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 238, dtype: object of Subcategory Mountain Frames with Color Black"
+944,"Product LL Mountain Frame - Silver, 40 of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 239, dtype: object of Subcategory Mountain Frames with Color Silver"
+945,"Product Front Derailleur of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 240, dtype: object of Subcategory Derailleurs with Color Silver"
+946,"Product LL Touring Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 241, dtype: object of Subcategory Handlebars with Color nan"
+947,"Product HL Touring Handlebars of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 242, dtype: object of Subcategory Handlebars with Color nan"
+948,"Product Front Brakes of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 243, dtype: object of Subcategory Brakes with Color Silver"
+949,"Product LL Crankset of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 244, dtype: object of Subcategory Cranksets with Color Black"
+950,"Product ML Crankset of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 245, dtype: object of Subcategory Cranksets with Color Black"
+951,"Product HL Crankset of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 246, dtype: object of Subcategory Cranksets with Color Black"
+952,"Product Chain of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 247, dtype: object of Subcategory Chains with Color Silver"
+953,"Product Touring-2000 Blue, 60 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 248, dtype: object of Subcategory Touring Bikes with Color Blue"
+954,"Product Touring-1000 Yellow, 46 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 249, dtype: object of Subcategory Touring Bikes with Color Yellow"
+955,"Product Touring-1000 Yellow, 50 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 250, dtype: object of Subcategory Touring Bikes with Color Yellow"
+956,"Product Touring-1000 Yellow, 54 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 251, dtype: object of Subcategory Touring Bikes with Color Yellow"
+957,"Product Touring-1000 Yellow, 60 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 252, dtype: object of Subcategory Touring Bikes with Color Yellow"
+958,"Product Touring-3000 Blue, 54 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 253, dtype: object of Subcategory Touring Bikes with Color Blue"
+959,"Product Touring-3000 Blue, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 254, dtype: object of Subcategory Touring Bikes with Color Blue"
+960,"Product Touring-3000 Blue, 62 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 255, dtype: object of Subcategory Touring Bikes with Color Blue"
+961,"Product Touring-3000 Yellow, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 256, dtype: object of Subcategory Touring Bikes with Color Yellow"
+962,"Product Touring-3000 Yellow, 50 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 257, dtype: object of Subcategory Touring Bikes with Color Yellow"
+963,"Product Touring-3000 Yellow, 54 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 258, dtype: object of Subcategory Touring Bikes with Color Yellow"
+964,"Product Touring-3000 Yellow, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 259, dtype: object of Subcategory Touring Bikes with Color Yellow"
+965,"Product Touring-3000 Yellow, 62 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 260, dtype: object of Subcategory Touring Bikes with Color Yellow"
+966,"Product Touring-1000 Blue, 46 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 261, dtype: object of Subcategory Touring Bikes with Color Blue"
+967,"Product Touring-1000 Blue, 50 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 262, dtype: object of Subcategory Touring Bikes with Color Blue"
+968,"Product Touring-1000 Blue, 54 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 263, dtype: object of Subcategory Touring Bikes with Color Blue"
+969,"Product Touring-1000 Blue, 60 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 264, dtype: object of Subcategory Touring Bikes with Color Blue"
+970,"Product Touring-2000 Blue, 46 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 265, dtype: object of Subcategory Touring Bikes with Color Blue"
+971,"Product Touring-2000 Blue, 50 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 266, dtype: object of Subcategory Touring Bikes with Color Blue"
+972,"Product Touring-2000 Blue, 54 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 267, dtype: object of Subcategory Touring Bikes with Color Blue"
+973,"Product Road-350-W Yellow, 40 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 268, dtype: object of Subcategory Road Bikes with Color Yellow"
+974,"Product Road-350-W Yellow, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 269, dtype: object of Subcategory Road Bikes with Color Yellow"
+975,"Product Road-350-W Yellow, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 270, dtype: object of Subcategory Road Bikes with Color Yellow"
+976,"Product Road-350-W Yellow, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 271, dtype: object of Subcategory Road Bikes with Color Yellow"
+977,"Product Road-750 Black, 58 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 272, dtype: object of Subcategory Road Bikes with Color Black"
+978,"Product Touring-3000 Blue, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 273, dtype: object of Subcategory Touring Bikes with Color Blue"
+979,"Product Touring-3000 Blue, 50 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 274, dtype: object of Subcategory Touring Bikes with Color Blue"
+980,"Product Mountain-400-W Silver, 38 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 275, dtype: object of Subcategory Mountain Bikes with Color Silver"
+981,"Product Mountain-400-W Silver, 40 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 276, dtype: object of Subcategory Mountain Bikes with Color Silver"
+982,"Product Mountain-400-W Silver, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 277, dtype: object of Subcategory Mountain Bikes with Color Silver"
+983,"Product Mountain-400-W Silver, 46 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 278, dtype: object of Subcategory Mountain Bikes with Color Silver"
+984,"Product Mountain-500 Silver, 40 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 279, dtype: object of Subcategory Mountain Bikes with Color Silver"
+985,"Product Mountain-500 Silver, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 280, dtype: object of Subcategory Mountain Bikes with Color Silver"
+986,"Product Mountain-500 Silver, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 281, dtype: object of Subcategory Mountain Bikes with Color Silver"
+987,"Product Mountain-500 Silver, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 282, dtype: object of Subcategory Mountain Bikes with Color Silver"
+988,"Product Mountain-500 Silver, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 283, dtype: object of Subcategory Mountain Bikes with Color Silver"
+989,"Product Mountain-500 Black, 40 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 284, dtype: object of Subcategory Mountain Bikes with Color Black"
+990,"Product Mountain-500 Black, 42 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 285, dtype: object of Subcategory Mountain Bikes with Color Black"
+991,"Product Mountain-500 Black, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 286, dtype: object of Subcategory Mountain Bikes with Color Black"
+992,"Product Mountain-500 Black, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 287, dtype: object of Subcategory Mountain Bikes with Color Black"
+993,"Product Mountain-500 Black, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 288, dtype: object of Subcategory Mountain Bikes with Color Black"
+994,"Product LL Bottom Bracket of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 289, dtype: object of Subcategory Bottom Brackets with Color nan"
+995,"Product ML Bottom Bracket of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 290, dtype: object of Subcategory Bottom Brackets with Color nan"
+996,"Product HL Bottom Bracket of Category ProductCategoryName    Components
+ProductCategoryName    Components
+Name: 291, dtype: object of Subcategory Bottom Brackets with Color nan"
+997,"Product Road-750 Black, 44 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 292, dtype: object of Subcategory Road Bikes with Color Black"
+998,"Product Road-750 Black, 48 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 293, dtype: object of Subcategory Road Bikes with Color Black"
+999,"Product Road-750 Black, 52 of Category ProductCategoryName    Bikes
+ProductCategoryName    Bikes
+Name: 294, dtype: object of Subcategory Road Bikes with Color Black"

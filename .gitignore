@@ -64,3 +64,35 @@ dist/
 # -------------------------
 .DS_Store
 Thumbs.db
+
+# virtual environments
+venv/
+.env/
+.env*/
+
+# python
+__pycache__/
+*.pyc
+
+# local packages / build output
+Lib/
+Scripts/
+Include/
+site-packages/
+
+# common build / cache
+build/
+dist/
+.eggs/
+
+# VS Code
+.vscode/
+
+# logs
+*.log
+
+# node (if any)
+node_modules/
+
+# OS
+.DS_Store

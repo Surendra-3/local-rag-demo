@@ -96,3 +96,8 @@ node_modules/
 
 # OS
 .DS_Store
+
+pyvenv.cfg
+share/
+
+*.bak
